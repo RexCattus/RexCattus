@@ -23,7 +23,7 @@ Currently focusing on mastering Unity for Game Dev.
 <p>
   <img src="https://img.shields.io/badge/Hobby-Blender-orange?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Pixel_Art-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Outfit_Studio-red?style=for-the-badge" />
+  
 </p>
 
 ---
@@ -36,12 +36,18 @@ Currently focusing on mastering Unity for Game Dev.
 
 ---
 
-### 🔗 Summon Me
+### 🔗 Contact Me
 <a href="#">
   <img src="https://img.shields.io/badge/Discord-RexCattus-5865F2?style=flat&logo=discord&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Nexus_Mods-RexCattus-orange?style=flat&logo=nexusmods" />
+<a href="mailto:rexcattusdev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+<a href="[MY_UNITY_PROFILE_LINK](https://learn.unity.com/u/67b7e58bedbc2a03411f75f7/?tab=profile)">
+  <img src="https://img.shields.io/badge/Unity-Profile-100000?style=flat&logo=unity&logoColor=white" />
+</a>
+<a href="[MY_ITCHIO_LINK](https://rexcattus.itch.io/)">
+  <img src="https://img.shields.io/badge/Itch.io-My_Games-FA5C5C?style=flat&logo=itch.io&logoColor=white" />
 </a>
 
 </div>
