@@ -43,10 +43,10 @@ Currently focusing on mastering Unity for Game Dev.
 <a href="mailto:rexcattusdev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="[MY_UNITY_PROFILE_LINK](https://learn.unity.com/u/67b7e58bedbc2a03411f75f7/?tab=profile)">
+<a href="https://learn.unity.com/u/67b7e58bedbc2a03411f75f7/?tab=profile">
   <img src="https://img.shields.io/badge/Unity-Profile-100000?style=flat&logo=unity&logoColor=white" />
 </a>
-<a href="[MY_ITCHIO_LINK](https://rexcattus.itch.io/)">
+<a href="https://rexcattus.itch.io/">
   <img src="https://img.shields.io/badge/Itch.io-My_Games-FA5C5C?style=flat&logo=itch.io&logoColor=white" />
 </a>
 
