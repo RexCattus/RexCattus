@@ -1,6 +1,6 @@
 <div align="center">
 
-# RexCattus! Lord of Cat not a cactus 🐱👑
+# RexCattus! Lord of Cat not a cactus 
 
 ### 👨‍💻 IT Student | 🎮 Game Dev (Goal) | 🎨 Blender (just a hobby)
 
@@ -15,7 +15,6 @@ Currently focusing on mastering Unity for Game Dev.
 <p>
   <img src="https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Engine-Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Student-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
